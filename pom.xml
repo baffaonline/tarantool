@@ -45,9 +45,9 @@
             </exclusions>
         </dependency>
         <dependency>
-            <groupId>io.tarantool</groupId>
-            <artifactId>spring-data-tarantool</artifactId>
-            <version>0.3.0</version>
+            <groupId>org.tarantool</groupId>
+            <artifactId>connector</artifactId>
+            <version>1.9.4</version>
         </dependency>
 
     </dependencies>
